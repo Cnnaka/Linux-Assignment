@@ -1,4 +1,4 @@
-# Linux-Assignment 1
+# Linux-Assignment 1 Tasks:
 # create a user
 # set an expiry date of 2weeks for the user
 # prompt the user to change their password on login
